@@ -70,3 +70,37 @@ Improved operational efficiency
 Increased stakeholder trust
 Reduced manual errors through automation
 Better visibility across the supply chain
+
+
+
+Home page
+<img width="1600" height="885" alt="Home page mp" src="https://github.com/user-attachments/assets/ef153443-fc2b-4f20-a7bb-980f1e0cae4d" />
+
+Admin login
+<img width="1600" height="839" alt="Admin login mp" src="https://github.com/user-attachments/assets/a2e18e8e-34c4-4e1d-b4df-57e53fb5942f" />
+
+Stakeholder login
+<img width="1600" height="861" alt="Stakeholder login mp" src="https://github.com/user-attachments/assets/0ee60277-3fa7-447c-8f55-f98a5a412963" />
+
+Admin Dashboard
+<img width="1600" height="803" alt="Admin dashboard mp" src="https://github.com/user-attachments/assets/dcc79d19-f2d2-45d4-a893-6af9060fee9a" />
+
+Generating order
+<img width="1600" height="815" alt="Generate order mp" src="https://github.com/user-attachments/assets/d1b9146b-9a77-49a9-8041-32560754f8df" />
+
+Database
+<img width="1600" height="933" alt="Database mp" src="https://github.com/user-attachments/assets/971a83b2-831e-4459-95a2-95cb669ffb5e" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
