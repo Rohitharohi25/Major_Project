@@ -14,7 +14,7 @@ public class Student1{
 	}
 	
 }
-  public class Main{
+  class Main{
 	public static void main(String[]args) {
 		Student1 obj = new Student1(18,"SD");
 		Student1 obj1 = new Student1(17,"ABD");
